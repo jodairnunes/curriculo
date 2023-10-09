@@ -1,0 +1,31 @@
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+
+.container-img {
+  background-image: url("/img/home.png");
+  background-size: cover;
+  max-width: 100%;
+  width: 25vw;
+  height: 25vw;
+  border-radius: 50%;
+  margin: 10px auto;
+  background-color: #9facf2;
+  color: whitesmoke;
+}
+
+.nome-perfil {
+  text-align: center;
+}
+
+#footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 20px;
+}
+
+.social-medias {
+  display: flex;
+  gap: 15px;
+  margin: 0 10px;
+  font-size: 2rem;
+}
