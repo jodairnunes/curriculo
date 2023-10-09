@@ -1,10 +1,15 @@
 # Curriculum Vitae Online
 
+## Design Currículo
+![design](https://github.com/jodairnunes/cv/assets/127688761/4b1e3062-73a1-4ad5-a303-bdbb7be3d86b)
+
+
 Sejam todos bem vindos ao projeto de Curriculum Vitae Online oferecidos pela Digital Innovation One.
 
 O projeto tem como objetivo montar nossa primeira página web que será a replica de um CV Online, utilizando conceitos de html e Github Pages. Ao  fim teremos nosso currículo pronto e disponível de forma estática.
 
 Ele também pode ser utilizado como currículo ‘vitae’ e portfolio pessoal.
+
 
 
 **Fork do projeto:** 
